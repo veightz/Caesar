@@ -1,0 +1,344 @@
+TCaesar
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/PrecompiledHeaders/Caesar-Prefix-botsdafcckdagjdoziqioetudiay/Caesar-Prefix.pch.pch Caesar/Caesar-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/AppDelegate.o /Users/veightz/Developer/Caesar/Caesar/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/main.o /Users/veightz/Developer/Caesar/Caesar/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/MacOS/Caesar normal x86_64
+cCopyStringsFile /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj/InfoPlist.strings Caesar/en.lproj/InfoPlist.strings
+cCpResource Caesar/en.lproj/Credits.rtf DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/veightz/Developer/Caesar/Caesar/Base.lproj/MainMenu.xib
+cCompileAssetCatalog /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources /Users/veightz/Developer/Caesar/Caesar/Images.xcassets
+cProcessInfoPlistFile /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Info.plist /Users/veightz/Developer/Caesar/Caesar/Caesar-Info.plist
+cTouch /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000532BBE4100000000000000AA
+t1395375681
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052690DB0000000000000044C
+t1382616496
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000532BBE2600000000000001DE
+t1395375654
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000052690DB1000000000000253C
+t1382616497
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000532BBE280000000000000ADC
+t1395375656
+s2780
+
+N/Users/veightz/Developer/Caesar/Caesar/AppDelegate.m
+c00000000533D8AA50000000000000234
+t1396542117
+s564
+
+N/Users/veightz/Developer/Caesar/Caesar/Base.lproj/MainMenu.xib
+c00000000533D8AA5000000000000CDE6
+t1396542117
+s52710
+
+N/Users/veightz/Developer/Caesar/Caesar/Caesar-Info.plist
+c00000000533D7EAC0000000000000498
+t1396539052
+s1176
+
+N/Users/veightz/Developer/Caesar/Caesar/Caesar-Prefix.pch
+c00000000533D7EAC00000000000000AC
+t1396539052
+s172
+
+N/Users/veightz/Developer/Caesar/Caesar/Images.xcassets
+c00000000533D7EAC0000000000000066
+t1396539052
+s102
+
+N/Users/veightz/Developer/Caesar/Caesar/en.lproj/Credits.rtf
+c00000000533D7EAC00000000000001B4
+t1396539052
+s436
+
+N/Users/veightz/Developer/Caesar/Caesar/en.lproj/InfoPlist.strings
+c00000000533D7EAC000000000000002D
+t1396539052
+s45
+
+N/Users/veightz/Developer/Caesar/Caesar/main.m
+c00000000533D7EAC00000000000000E5
+t1396539052
+s229
+
+N/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/AppDelegate.o
+t1396542122
+s35084
+
+N/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/Caesar.LinkFileList
+c00000000533D8AA50000000000000101
+t1396542117
+s257
+
+N/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/main.o
+t1396542122
+s3352
+
+N/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/assetcatalog_dependencies.txt
+t1396542124
+s251
+
+N/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/assetcatalog_generated_info.plist
+t1396542124
+s181
+
+N/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/PrecompiledHeaders/Caesar-Prefix-botsdafcckdagjdoziqioetudiay/Caesar-Prefix.pch.pch
+t1396542122
+s117056
+
+N/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app
+t1396542117
+s102
+
+N/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Info.plist
+t1396542124
+s1484
+
+N/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/MacOS/Caesar
+t1396542123
+s16168
+
+N/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/PkgInfo
+t1396542124
+s8
+
+N/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/Base.lproj/MainMenu.nib
+t1396542123
+s41332
+
+N/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj/Credits.rtf
+t1396542123
+s436
+
+N/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1396542123
+s92
+
+CBuild AST from /Users/veightz/Developer/Caesar/Caesar/AppDelegate.m
+r0
+
+CBuild AST from /Users/veightz/Developer/Caesar/Caesar/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2c658525c2edb841^0c049125c2edb841^---0#1#1#--18"Check dependencies36"2B811CBF-C789-4D73-B10D-59F8DF7F53CB-
+
+CCompileAssetCatalog /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources /Users/veightz/Developer/Caesar/Caesar/Images.xcassets
+s418234923.157476
+e418234924.459805
+r1
+xCompileAssetCatalog
+x/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources
+x/Users/veightz/Developer/Caesar/Caesar/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/Assets.car
+o/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"CompileAssetCatalog DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources Caesar/Images.xcassets105"CompileAssetCatalog DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources Caesar/Images.xcassetsc366282bc2edb841^5fb6752cc2edb841^-280"/* com.apple.actool.compilation-results *//Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/Assets.car/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@62"file:///Users/veightz/Developer/Caesar/Caesar/Images.xcassets/0000000000000000^823"CompileAssetCatalog DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources Caesar/Images.xcassets    cd /Users/veightz/Developer/Caesar    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/assetcatalog_generated_info.plist --app-icon AppIcon --platform macosx --minimum-deployment-target 10.9 --target-device mac --compile /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources /Users/veightz/Developer/Caesar/Caesar/Images.xcassets36"7F2ABD35-D665-4803-8299-9BE43B011DA5-
+bC5DE6C40-C65B-4C74-B346-09452D8E282A
+
+CCompileC DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/AppDelegate.o /Users/veightz/Developer/Caesar/Caesar/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418234922.387822
+e418234922.473519
+r1
+xCompileC
+xDerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/veightz/Developer/Caesar/Caesar/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/veightz/Developer/Caesar/Caesar/AppDelegate.m
+d/Users/veightz/Developer/Caesar/Caesar/AppDelegate.h
+o/Users/veightz/Developer/Caesar/Caesar/AppDelegate.m:19:11: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+o    NSLog(result);
+o          ^~~~~~
+o/Users/veightz/Developer/Caesar/Caesar/AppDelegate.m:24:15: warning: unused variable 'result' [-Wunused-variable]
+o    NSString *result;
+o              ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/veightz/Developer/Caesar/Caesar/AppDelegate.m199"CompileC DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/AppDelegate.o Caesar/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler7c64632ac2edb841^3738792ac2edb841^-360"/Users/veightz/Developer/Caesar/Caesar/AppDelegate.m:19:11: warning: format string is not a string literal (potentially insecure) [-Wformat-security]    NSLog(result);          ^~~~~~/Users/veightz/Developer/Caesar/Caesar/AppDelegate.m:24:15: warning: unused variable 'result' [-Wunused-variable]    NSString *result;              ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@60"Format string is not a string literal (potentially insecure)-418234922#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@59"file:///Users/veightz/Developer/Caesar/Caesar/AppDelegate.m0000000000000000^18#10#18#10#449#0#19"Format String Issue1(3@59"file:///Users/veightz/Developer/Caesar/Caesar/AppDelegate.m0000000000000000^18#10#18#16#449#0#-2@24"Unused variable 'result'-418234922#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@59"file:///Users/veightz/Developer/Caesar/Caesar/AppDelegate.m0000000000000000^23#14#23#14#527#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@59"file:///Users/veightz/Developer/Caesar/Caesar/AppDelegate.m0000000000000000^3223"CompileC DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/AppDelegate.o Caesar/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/veightz/Developer/Caesar    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/veightz/Developer/Caesar/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Caesar-generated-files.hmap -I/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Caesar-own-target-headers.hmap -I/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Caesar-all-target-headers.hmap -iquote /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Caesar-project-headers.hmap -I/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/DerivedSources/x86_64 -I/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/DerivedSources -F/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug -include /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/PrecompiledHeaders/Caesar-Prefix-botsdafcckdagjdoziqioetudiay/Caesar-Prefix.pch -MMD -MT dependencies -MF /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/veightz/Developer/Caesar/Caesar/AppDelegate.m -o /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/AppDelegate.o36"AD303918-07EF-403E-A55C-622AE052B67F-
+bC5DE6C40-C65B-4C74-B346-09452D8E282A
+
+CCompileC DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/main.o /Users/veightz/Developer/Caesar/Caesar/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418234922.388156
+e418234922.433760
+r1
+xCompileC
+xDerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/main.o
+x/Users/veightz/Developer/Caesar/Caesar/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/veightz/Developer/Caesar/Caesar/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/veightz/Developer/Caesar/Caesar/main.m185"CompileC DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/main.o Caesar/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6571632ac2edb841^020c6f2ac2edb841^---0#0#1#-19%DVTDocumentLocation2@52"file:///Users/veightz/Developer/Caesar/Caesar/main.m0000000000000000^3181"CompileC DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/main.o Caesar/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/veightz/Developer/Caesar    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/veightz/Developer/Caesar/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Caesar-generated-files.hmap -I/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Caesar-own-target-headers.hmap -I/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Caesar-all-target-headers.hmap -iquote /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Caesar-project-headers.hmap -I/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/DerivedSources/x86_64 -I/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/DerivedSources -F/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug -include /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/PrecompiledHeaders/Caesar-Prefix-botsdafcckdagjdoziqioetudiay/Caesar-Prefix.pch -MMD -MT dependencies -MF /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/main.dia -c /Users/veightz/Developer/Caesar/Caesar/main.m -o /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/main.o36"FE758CBC-E94A-4A6D-A669-EA9382955ACF-
+bC5DE6C40-C65B-4C74-B346-09452D8E282A
+
+CCompileXIB /Users/veightz/Developer/Caesar/Caesar/Base.lproj/MainMenu.xib
+s418234923.156793
+e418234923.313332
+r1
+xCompileXIB
+x/Users/veightz/Developer/Caesar/Caesar/Base.lproj/MainMenu.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compiling /Users/veightz/Developer/Caesar/Caesar/Base.lproj/MainMenu.xib41"CompileXIB Caesar/Base.lproj/MainMenu.xib2635282bc2edb841^db36502bc2edb841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/veightz/Developer/Caesar/Caesar/Base.lproj/MainMenu.xib0000000000000000^524"CompileXIB Caesar/Base.lproj/MainMenu.xib    cd /Users/veightz/Developer/Caesar    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/Base.lproj/MainMenu.nib /Users/veightz/Developer/Caesar/Caesar/Base.lproj/MainMenu.xib36"27DC704D-FE6F-4D43-B477-326B4D96EC72-
+bC5DE6C40-C65B-4C74-B346-09452D8E282A
+
+CCopyStringsFile /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj/InfoPlist.strings Caesar/en.lproj/InfoPlist.strings
+s418234923.156294
+e418234923.157848
+r1
+xCopyStringsFile
+x/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj/InfoPlist.strings
+xCaesar/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy Caesar/en.lproj/InfoPlist.strings139"CopyStringsFile DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj/InfoPlist.strings Caesar/en.lproj/InfoPlist.stringsd00e282bc2edb841^6c7a282bc2edb841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/veightz/Developer/Caesar/Caesar/en.lproj/InfoPlist.strings0000000000000000^410"CopyStringsFile DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj/InfoPlist.strings Caesar/en.lproj/InfoPlist.strings    cd /Users/veightz/Developer/Caesar    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj -- Caesar/en.lproj/InfoPlist.strings36"73BECF7C-7900-45F4-A5EB-16DAF567A98C-
+bC5DE6C40-C65B-4C74-B346-09452D8E282A
+
+CCpResource Caesar/en.lproj/Credits.rtf DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj/Credits.rtf
+s418234923.156471
+e418234923.157896
+r1
+xCpResource
+xCaesar/en.lproj/Credits.rtf
+xDerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj/Credits.rtf122"CpResource Caesar/en.lproj/Credits.rtf DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj/Credits.rtf7a1a282bc2edb841^a96c282bc2edb841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj/Credits.rtf003414abddffdf42^438"CpResource Caesar/en.lproj/Credits.rtf DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/veightz/Developer/Caesar    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/veightz/Developer/Caesar/Caesar/en.lproj/Credits.rtf /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Resources/en.lproj36"0EB2DF71-7822-4880-980F-E27146C53CBE-
+bC5DE6C40-C65B-4C74-B346-09452D8E282A
+
+CLd /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/MacOS/Caesar normal x86_64
+s418234922.474260
+e418234923.155498
+r1
+xLd
+x/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/MacOS/Caesar
+xnormal
+xx86_64
+d/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/Caesar.LinkFileList
+d/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOSurface.framework/IOSurface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/CoreImage.framework/Versions/A/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/ScalableUserInterface.framework/Versions/A/ScalableUserInterface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Link /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/MacOS/Caesar82"Ld DerivedData/Build/Products/Debug/Caesar.app/Contents/MacOS/Caesar normal x86_649f75792ac2edb841^0bcf272bc2edb841^---0#0#1#--1019"Ld DerivedData/Build/Products/Debug/Caesar.app/Contents/MacOS/Caesar normal x86_64    cd /Users/veightz/Developer/Caesar    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug -F/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug -filelist /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/Caesar.LinkFileList -mmacosx-version-min=10.9 -fobjc-arc -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Objects-normal/x86_64/Caesar_dependency_info.dat -o /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/MacOS/Caesar36"0404EB15-FA99-40EA-B763-FDC9DE279AB8-
+bC5DE6C40-C65B-4C74-B346-09452D8E282A
+
+CProcessInfoPlistFile /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Info.plist /Users/veightz/Developer/Caesar/Caesar/Caesar-Info.plist
+s418234924.460372
+e418234924.462060
+r1
+xProcessInfoPlistFile
+x/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Info.plist
+x/Users/veightz/Developer/Caesar/Caesar/Caesar-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Process /Users/veightz/Developer/Caesar/Caesar/Caesar-Info.plist109"ProcessInfoPlistFile DerivedData/Build/Products/Debug/Caesar.app/Contents/Info.plist Caesar/Caesar-Info.plist29e9752cc2edb841^8c4a762cc2edb841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/veightz/Developer/Caesar/Caesar/Caesar-Info.plist0000000000000000^630"ProcessInfoPlistFile DerivedData/Build/Products/Debug/Caesar.app/Contents/Info.plist Caesar/Caesar-Info.plist    cd /Users/veightz/Developer/Caesar    builtin-infoPlistUtility /Users/veightz/Developer/Caesar/Caesar/Caesar-Info.plist -genpkginfo /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/PkgInfo -expandbuildsettings -platform macosx -additionalcontentfile /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/assetcatalog_generated_info.plist -o /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app/Contents/Info.plist36"A68B25B1-908B-44CA-B91F-3ABDDBA2FE3F-
+bC5DE6C40-C65B-4C74-B346-09452D8E282A
+
+CProcessPCH /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/PrecompiledHeaders/Caesar-Prefix-botsdafcckdagjdoziqioetudiay/Caesar-Prefix.pch.pch Caesar/Caesar-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418234917.566530
+e418234922.386957
+r1
+xProcessPCH
+x/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/PrecompiledHeaders/Caesar-Prefix-botsdafcckdagjdoziqioetudiay/Caesar-Prefix.pch.pch
+xCaesar/Caesar-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/veightz/Developer/Caesar/Caesar/Caesar-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile Caesar/Caesar-Prefix.pch221"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/Caesar-Prefix-botsdafcckdagjdoziqioetudiay/Caesar-Prefix.pch.pch Caesar/Caesar-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler03259125c2edb841^3011632ac2edb841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/veightz/Developer/Caesar/Caesar/Caesar-Prefix.pch0000000000000000^3147"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/Caesar-Prefix-botsdafcckdagjdoziqioetudiay/Caesar-Prefix.pch.pch Caesar/Caesar-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/veightz/Developer/Caesar    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/veightz/Developer/Caesar/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Caesar-generated-files.hmap -I/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Caesar-own-target-headers.hmap -I/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Caesar-all-target-headers.hmap -iquote /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/Caesar-project-headers.hmap -I/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/DerivedSources/x86_64 -I/Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/Caesar.build/Debug/Caesar.build/DerivedSources -F/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug --serialize-diagnostics /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/PrecompiledHeaders/Caesar-Prefix-botsdafcckdagjdoziqioetudiay/Caesar-Prefix.pch.dia -MMD -MT dependencies -MF /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/PrecompiledHeaders/Caesar-Prefix-botsdafcckdagjdoziqioetudiay/Caesar-Prefix.pch.d -c /Users/veightz/Developer/Caesar/Caesar/Caesar-Prefix.pch -o /Users/veightz/Developer/Caesar/DerivedData/Build/Intermediates/PrecompiledHeaders/Caesar-Prefix-botsdafcckdagjdoziqioetudiay/Caesar-Prefix.pch.pch36"DCDCCE17-595F-4214-9F57-7B6E1AE29318-
+bC5DE6C40-C65B-4C74-B346-09452D8E282A
+
+CProcessPCH /Users/veightz/Developer/Caesar/DerivedData/Caesar/Index/PrecompiledHeaders/Caesar-Prefix-gwpcnszkjuiaqvgxelfmyxsoswdz_ast/Caesar-Prefix.pch.pch Caesar/Caesar-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app
+s418234924.462907
+e418234924.486601
+r1
+xTouch
+x/Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Touch /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app49"Touch DerivedData/Build/Products/Debug/Caesar.app1d8e762cc2edb841^d9937c2cc2edb841^---0#0#1#--187"Touch DerivedData/Build/Products/Debug/Caesar.app    cd /Users/veightz/Developer/Caesar    /usr/bin/touch -c /Users/veightz/Developer/Caesar/DerivedData/Build/Products/Debug/Caesar.app36"00B82BEB-0A88-485C-8D3D-4F522DAB948C-
+bC5DE6C40-C65B-4C74-B346-09452D8E282A
+

@@ -1,0 +1,481 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A6E22FDA18EDB62C0054698D /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A6E22FD918EDB62C0054698D /* Cocoa.framework */; };
+		A6E22FE418EDB62C0054698D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A6E22FE218EDB62C0054698D /* InfoPlist.strings */; };
+		A6E22FE618EDB62C0054698D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A6E22FE518EDB62C0054698D /* main.m */; };
+		A6E22FEA18EDB62C0054698D /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = A6E22FE818EDB62C0054698D /* Credits.rtf */; };
+		A6E22FED18EDB62C0054698D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A6E22FEC18EDB62C0054698D /* AppDelegate.m */; };
+		A6E22FF018EDB62C0054698D /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = A6E22FEE18EDB62C0054698D /* MainMenu.xib */; };
+		A6E22FF218EDB62C0054698D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6E22FF118EDB62C0054698D /* Images.xcassets */; };
+		A6E22FF918EDB62C0054698D /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A6E22FF818EDB62C0054698D /* XCTest.framework */; };
+		A6E22FFA18EDB62C0054698D /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A6E22FD918EDB62C0054698D /* Cocoa.framework */; };
+		A6E2300218EDB62C0054698D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A6E2300018EDB62C0054698D /* InfoPlist.strings */; };
+		A6E2300418EDB62C0054698D /* CaesarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A6E2300318EDB62C0054698D /* CaesarTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A6E22FFB18EDB62C0054698D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A6E22FCE18EDB62C0054698D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A6E22FD518EDB62C0054698D;
+			remoteInfo = Caesar;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A6E22FD618EDB62C0054698D /* Caesar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Caesar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A6E22FD918EDB62C0054698D /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		A6E22FDC18EDB62C0054698D /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		A6E22FDD18EDB62C0054698D /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		A6E22FDE18EDB62C0054698D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		A6E22FE118EDB62C0054698D /* Caesar-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Caesar-Info.plist"; sourceTree = "<group>"; };
+		A6E22FE318EDB62C0054698D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A6E22FE518EDB62C0054698D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A6E22FE718EDB62C0054698D /* Caesar-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Caesar-Prefix.pch"; sourceTree = "<group>"; };
+		A6E22FE918EDB62C0054698D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		A6E22FEB18EDB62C0054698D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		A6E22FEC18EDB62C0054698D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A6E22FEF18EDB62C0054698D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		A6E22FF118EDB62C0054698D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		A6E22FF718EDB62C0054698D /* CaesarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CaesarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A6E22FF818EDB62C0054698D /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		A6E22FFF18EDB62C0054698D /* CaesarTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CaesarTests-Info.plist"; sourceTree = "<group>"; };
+		A6E2300118EDB62C0054698D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A6E2300318EDB62C0054698D /* CaesarTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CaesarTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A6E22FD318EDB62C0054698D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A6E22FDA18EDB62C0054698D /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A6E22FF418EDB62C0054698D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A6E22FFA18EDB62C0054698D /* Cocoa.framework in Frameworks */,
+				A6E22FF918EDB62C0054698D /* XCTest.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A6E22FCD18EDB62C0054698D = {
+			isa = PBXGroup;
+			children = (
+				A6E22FDF18EDB62C0054698D /* Caesar */,
+				A6E22FFD18EDB62C0054698D /* CaesarTests */,
+				A6E22FD818EDB62C0054698D /* Frameworks */,
+				A6E22FD718EDB62C0054698D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A6E22FD718EDB62C0054698D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A6E22FD618EDB62C0054698D /* Caesar.app */,
+				A6E22FF718EDB62C0054698D /* CaesarTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A6E22FD818EDB62C0054698D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A6E22FD918EDB62C0054698D /* Cocoa.framework */,
+				A6E22FF818EDB62C0054698D /* XCTest.framework */,
+				A6E22FDB18EDB62C0054698D /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A6E22FDB18EDB62C0054698D /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A6E22FDC18EDB62C0054698D /* AppKit.framework */,
+				A6E22FDD18EDB62C0054698D /* CoreData.framework */,
+				A6E22FDE18EDB62C0054698D /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		A6E22FDF18EDB62C0054698D /* Caesar */ = {
+			isa = PBXGroup;
+			children = (
+				A6E22FEB18EDB62C0054698D /* AppDelegate.h */,
+				A6E22FEC18EDB62C0054698D /* AppDelegate.m */,
+				A6E22FEE18EDB62C0054698D /* MainMenu.xib */,
+				A6E22FF118EDB62C0054698D /* Images.xcassets */,
+				A6E22FE018EDB62C0054698D /* Supporting Files */,
+			);
+			path = Caesar;
+			sourceTree = "<group>";
+		};
+		A6E22FE018EDB62C0054698D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A6E22FE118EDB62C0054698D /* Caesar-Info.plist */,
+				A6E22FE218EDB62C0054698D /* InfoPlist.strings */,
+				A6E22FE518EDB62C0054698D /* main.m */,
+				A6E22FE718EDB62C0054698D /* Caesar-Prefix.pch */,
+				A6E22FE818EDB62C0054698D /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A6E22FFD18EDB62C0054698D /* CaesarTests */ = {
+			isa = PBXGroup;
+			children = (
+				A6E2300318EDB62C0054698D /* CaesarTests.m */,
+				A6E22FFE18EDB62C0054698D /* Supporting Files */,
+			);
+			path = CaesarTests;
+			sourceTree = "<group>";
+		};
+		A6E22FFE18EDB62C0054698D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A6E22FFF18EDB62C0054698D /* CaesarTests-Info.plist */,
+				A6E2300018EDB62C0054698D /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A6E22FD518EDB62C0054698D /* Caesar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A6E2300718EDB62C0054698D /* Build configuration list for PBXNativeTarget "Caesar" */;
+			buildPhases = (
+				A6E22FD218EDB62C0054698D /* Sources */,
+				A6E22FD318EDB62C0054698D /* Frameworks */,
+				A6E22FD418EDB62C0054698D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Caesar;
+			productName = Caesar;
+			productReference = A6E22FD618EDB62C0054698D /* Caesar.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A6E22FF618EDB62C0054698D /* CaesarTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A6E2300A18EDB62C0054698D /* Build configuration list for PBXNativeTarget "CaesarTests" */;
+			buildPhases = (
+				A6E22FF318EDB62C0054698D /* Sources */,
+				A6E22FF418EDB62C0054698D /* Frameworks */,
+				A6E22FF518EDB62C0054698D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A6E22FFC18EDB62C0054698D /* PBXTargetDependency */,
+			);
+			name = CaesarTests;
+			productName = CaesarTests;
+			productReference = A6E22FF718EDB62C0054698D /* CaesarTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A6E22FCE18EDB62C0054698D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = HDUISA;
+				TargetAttributes = {
+					A6E22FF618EDB62C0054698D = {
+						TestTargetID = A6E22FD518EDB62C0054698D;
+					};
+				};
+			};
+			buildConfigurationList = A6E22FD118EDB62C0054698D /* Build configuration list for PBXProject "Caesar" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A6E22FCD18EDB62C0054698D;
+			productRefGroup = A6E22FD718EDB62C0054698D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A6E22FD518EDB62C0054698D /* Caesar */,
+				A6E22FF618EDB62C0054698D /* CaesarTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A6E22FD418EDB62C0054698D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A6E22FE418EDB62C0054698D /* InfoPlist.strings in Resources */,
+				A6E22FF218EDB62C0054698D /* Images.xcassets in Resources */,
+				A6E22FEA18EDB62C0054698D /* Credits.rtf in Resources */,
+				A6E22FF018EDB62C0054698D /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A6E22FF518EDB62C0054698D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A6E2300218EDB62C0054698D /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A6E22FD218EDB62C0054698D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A6E22FED18EDB62C0054698D /* AppDelegate.m in Sources */,
+				A6E22FE618EDB62C0054698D /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A6E22FF318EDB62C0054698D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A6E2300418EDB62C0054698D /* CaesarTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A6E22FFC18EDB62C0054698D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A6E22FD518EDB62C0054698D /* Caesar */;
+			targetProxy = A6E22FFB18EDB62C0054698D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		A6E22FE218EDB62C0054698D /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A6E22FE318EDB62C0054698D /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		A6E22FE818EDB62C0054698D /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A6E22FE918EDB62C0054698D /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		A6E22FEE18EDB62C0054698D /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A6E22FEF18EDB62C0054698D /* Base */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		A6E2300018EDB62C0054698D /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A6E2300118EDB62C0054698D /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A6E2300518EDB62C0054698D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		A6E2300618EDB62C0054698D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		A6E2300818EDB62C0054698D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Caesar/Caesar-Prefix.pch";
+				INFOPLIST_FILE = "Caesar/Caesar-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		A6E2300918EDB62C0054698D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Caesar/Caesar-Prefix.pch";
+				INFOPLIST_FILE = "Caesar/Caesar-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		A6E2300B18EDB62C0054698D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Caesar.app/Contents/MacOS/Caesar";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Caesar/Caesar-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "CaesarTests/CaesarTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		A6E2300C18EDB62C0054698D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Caesar.app/Contents/MacOS/Caesar";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Caesar/Caesar-Prefix.pch";
+				INFOPLIST_FILE = "CaesarTests/CaesarTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A6E22FD118EDB62C0054698D /* Build configuration list for PBXProject "Caesar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A6E2300518EDB62C0054698D /* Debug */,
+				A6E2300618EDB62C0054698D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A6E2300718EDB62C0054698D /* Build configuration list for PBXNativeTarget "Caesar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A6E2300818EDB62C0054698D /* Debug */,
+				A6E2300918EDB62C0054698D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		A6E2300A18EDB62C0054698D /* Build configuration list for PBXNativeTarget "CaesarTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A6E2300B18EDB62C0054698D /* Debug */,
+				A6E2300C18EDB62C0054698D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A6E22FCE18EDB62C0054698D /* Project object */;
+}
